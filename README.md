@@ -29,13 +29,13 @@ bash Kali_UserLand_GUI.sh
 ___
 
 - After installation Completed Type ```vncserver-stop``` then type ```vncserver-start```
-- Open VNC Viewer and type ```localhost:1``` and connect and type vnc password and now GUI is opened.
+- Open VNC Viewer and type ```localhost:1``` and connect and enter vnc password and now GUI is opened.
 
 <img src="/images/IMG_20230702_223854_338.jpg">
 
 ___
 
-# Connect And Disconnect GUI Commands
+# Connecting And Disconnecting GUI Commands
 
 - Connect: ```vncserver-start```
 
