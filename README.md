@@ -36,7 +36,7 @@ ___
 
 ___
 
-# Connecting And Disconnecting GUI Commands
+# Connecting And Disconnecting GUI Commands.
 
 - Connect: ```vncserver-start```
 
