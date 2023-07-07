@@ -16,6 +16,7 @@ ____
 
 - Then open UserLand app and choose kali and choose SSH and i will ask you to enter Username of distro and password and vnc password do it and press enter,it will download kali distro and install it,After install it will open userland terminal ```if you installed termux you will choose between termux and UserLand Terminal Choose UserLand Terminal better``` and type distro password,Now Kali is open.
 
+
 ___
 
 # GUI Installation 
@@ -23,7 +24,7 @@ ___
 - After open kali now install GUI.
 - Only copy this code and paste it in UserLand Terminal and leave script do everything.
 ```sh
-curl https://raw.githubusercontent.com/mrx7014/Kali-UserLand/main/Kali_UserLand_GUI.sh >> Kali_UserLand_GUI.sh
+sudo apt-get update -y ; sudo apt install curl ; curl https://raw.githubusercontent.com/mrx7014/Kali-UserLand/main/Kali_UserLand_GUI.sh >> Kali_UserLand_GUI.sh
 bash Kali_UserLand_GUI.sh
 ```
 ___
