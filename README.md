@@ -24,8 +24,7 @@ ___
 - After open kali now install GUI.
 - Only copy this code and paste it in UserLand Terminal and leave script do everything.
 ```sh
-sudo apt-get update -y ; sudo apt install curl ; curl https://raw.githubusercontent.com/mrx7014/Kali-UserLand/main/Kali_UserLand_GUI.sh >> Kali_UserLand_GUI.sh
-bash Kali_UserLand_GUI.sh
+sudo apt-get update -y ; sudo apt install curl ; curl https://raw.githubusercontent.com/mrx7014/Kali-UserLand/main/Kali_UserLand_GUI.sh >> Kali_UserLand_GUI.sh ; bash Kali_UserLand_GUI.sh
 ```
 ___
 
