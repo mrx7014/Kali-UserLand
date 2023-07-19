@@ -20,7 +20,6 @@ sudo apt-get full-upgrade -y
 sudo apt-get install xfce4 xfce4-terminal tightvncserver dbus-x11 -y
 sudo apt-get install xfe -y
 sudo apt-get install -y kali-themes
-sudo apt-get install -y kali-linux-default
 sudo apt-get clean
 sleep 1
 echo -e "\e[93mInstall Brave Browser\e[0m"
