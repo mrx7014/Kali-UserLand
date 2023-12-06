@@ -5,18 +5,18 @@ sleep 2
 echo -e "\e[93mKali Linux UserLand GUI Setup\e[0m"
 echo " "
 echo " "
-sleep 2
+sleep 1
 echo -e "\e[93mCoded By MRX7014\e[0m"
 echo " "
 echo " "
-sleep 2
+sleep 1
 echo -e "\e[93mSetup Starting Now\e[0m"
 sleep 1
 echo " "
 echo " "
 echo -e "\e[93mGet the necessary components\e[0m"
-sudo apt-get update
-sudo apt-get full-upgrade -y
+sudo apt-get update -y 
+sudo apt-get upgrade -y
 sudo apt-get install xfce4 xfce4-terminal tightvncserver dbus-x11 -y
 sudo apt-get install xfe -y
 sudo apt-get install -y kali-themes
